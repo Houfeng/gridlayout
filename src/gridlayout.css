@@ -1,0 +1,12 @@
+.ui-grid {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+.ui-grid .ui-grid-item {
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    overflow:hidden;
+    float: left;
+}
