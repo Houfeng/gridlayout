@@ -1,3 +1,9 @@
+/**
+ * 简单易用的网格布局插件
+ * email: admin@xhou.net
+ * author: houfeng(侯锋)
+ */
+
 window.gridLayout = window.gridLayout || {};
 (function(owner) {
     owner.init=function(grid) {
